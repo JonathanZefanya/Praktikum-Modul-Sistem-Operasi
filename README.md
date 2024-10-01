@@ -1,6 +1,6 @@
 # Modul Praktikum Sistem Operasi
 
-## Kelas Reguler
+## Indonesian Version
 
 ### [Modul 1 - Pengenalan Linux](/Modul1/README-ID.md)
 
@@ -10,7 +10,7 @@
 
 ### [Modul 4 - FUSE dan Sistem Operasi](/Modul4/README-ID.md)
 
-## IUP Class
+## English Version
 
 ### [Module 1 - Introduction to Linux](/Modul1/README-EN.md)
 
